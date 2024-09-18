@@ -1,0 +1,14 @@
+C:\Users\nelwamondop\RPNToInfix\bin\Debug\net8.0\RPNToInfix.exe
+C:\Users\nelwamondop\RPNToInfix\bin\Debug\net8.0\RPNToInfix.deps.json
+C:\Users\nelwamondop\RPNToInfix\bin\Debug\net8.0\RPNToInfix.runtimeconfig.json
+C:\Users\nelwamondop\RPNToInfix\bin\Debug\net8.0\RPNToInfix.dll
+C:\Users\nelwamondop\RPNToInfix\bin\Debug\net8.0\RPNToInfix.pdb
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.AssemblyInfoInputs.cache
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.AssemblyInfo.cs
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.csproj.CoreCompileInputs.cache
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.dll
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\refint\RPNToInfix.dll
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.pdb
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\RPNToInfix.genruntimeconfig.cache
+C:\Users\nelwamondop\RPNToInfix\obj\Debug\net8.0\ref\RPNToInfix.dll
